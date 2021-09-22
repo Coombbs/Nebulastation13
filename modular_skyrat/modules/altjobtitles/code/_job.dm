@@ -118,7 +118,7 @@
 	alt_titles = list("Brig Sergeant", "Dispatch Officer", "Brig Governor", "Jailer")
 
 /datum/job/detective
-	alt_titles = list("Forensic Technician", "Private Investigator", "Forensic Scientist")
+	alt_titles = list("Forensic Technician", "Private Investigator", "Forensic Scientist", "Inspector", "Analyst")
 
 /datum/job/security_officer
 	alt_titles = list("Security Operative", "Peacekeeper")
